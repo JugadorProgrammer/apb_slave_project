@@ -1,0 +1,1 @@
+C:/intelFPGA_standard/24.1std/questa_fse/win64/VisualizerRls/bin/viscom.exe -nolock -quiet -jmem_size 393216 -reportprogress 300 +acc TB -o test +__betafsm

@@ -1,0 +1,77 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11f vlog 2024.3 2024.09, Sep 10 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/79654/AppData/Local/quartus
+vapb_slave
+2D:/Labs/sapr/apb_slave_project/rtl/apb_slave.sv
+Z1 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1761725815
+!i10b 1
+!s100 _^d69@V:LJ]0J7JhI5?Y>2
+I0h[QIj98jI0g?PR9W88Ib1
+S1
+Z2 dD:/Labs/sapr/apb_slave_project
+Z3 w1761725683
+8D:/Labs/sapr/apb_slave_project/rtl/apb_slave.sv
+FD:/Labs/sapr/apb_slave_project/rtl/apb_slave.sv
+!i122 0
+L0 1 166
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2024.3;79
+r1
+!s85 0
+31
+Z6 !s108 1761725815.000000
+!s107 D:/Labs/sapr/apb_slave_project/rtl/apb_slave.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Labs/sapr/apb_slave_project/rtl/apb_slave.sv|
+!i113 0
+Z7 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+vTB
+2D:/Labs/sapr/apb_slave_project/tb/tb_apb.sv
+R1
+!s110 1761725816
+!i10b 1
+!s100 T3AACmCBM;jA^Alo;c>NO3
+I0HQT_WY>K>f8OU@k>hILo3
+S1
+R2
+R3
+8D:/Labs/sapr/apb_slave_project/tb/tb_apb.sv
+FD:/Labs/sapr/apb_slave_project/tb/tb_apb.sv
+!i122 1
+L0 2 151
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Labs/sapr/apb_slave_project/tb/tb_apb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Labs/sapr/apb_slave_project/tb/tb_apb.sv|
+!i113 0
+R7
+R8
+n@t@b
+Ttest
+!s110 1761726526
+VHk6a94VKW_@]9?<`eOTLN2
+04 2 4 work TB fast 0
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U2 
+!s135 nogc
+o+acc
+R8
+ntest
+OL;O;2024.3;79
